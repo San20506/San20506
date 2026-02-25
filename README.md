@@ -119,33 +119,6 @@ stark/
 
 <div align="center">
 
-## 🌳 SKILL TREE
-
-</div>
-
-```
-                          [ M SANTHOSH ]
-                                │
-            ┌───────────────────┼───────────────────┐
-            │                   │                   │
-        [AI / ML]           [SYSTEMS]           [LANGUAGES]
-            │                   │                   │
-     ┌──────┤            ┌──────┤            ┌──────┤
-     │      │            │      │            │      │
-  LLaMA3  Mistral    CachyOS  Hyprland    Python   Bash
-     │      │            │      │            │      │
-  Ollama  DeepSeek    Linux   Auto          SQL     Git
-              │
-         [ UNLOCKING ]
-              │
-   ┌──────────┤──────────┐
-   │          │          │
- OpenCV    PyQt5     Voice I/O
-```
-
----
-
-<div align="center">
 
 ## ⚡ ARSENAL
 
@@ -225,11 +198,9 @@ ENDGAME OBJECTIVES
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ccff)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ccff)](www.linkedin.com/in/santhosh-m-507844322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=00ff88)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:YOUR_EMAIL)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff)](YOUR_TWITTER_URL)
-
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:m.santhosh200506@gmail.com)
 <br>
 
 <!-- FOOTER WAVE -->
