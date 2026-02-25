@@ -1,170 +1,130 @@
-Below is a complete **GitHub README.md** tailored to your profile, projects, and direction.
-Tone: Professional + Technical + Founder-oriented blend.
+<div align="center">
 
-You can paste this directly into `README.md`.
+# M Santhosh
 
----
+**AI Systems Builder · Offline-First Architect · Founder-in-Progress**
 
-# ⚡ M Santhosh
+*2nd Year @ St. Joseph's College of Engineering*
 
-**AI Systems Builder**
-2nd Year | St. Joseph's College of Engineering
-CachyOS | Linux Power User | Offline AI Architect
+[![CachyOS](https://img.shields.io/badge/OS-CachyOS-blue?style=flat-square&logo=archlinux&logoColor=white)](https://cachyos.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-yellow?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Ollama](https://img.shields.io/badge/LLMs-Ollama-black?style=flat-square)](https://ollama.ai)
+[![Status](https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square)]()
 
----
-
-## 🧠 About Me
-
-I design and build **offline-first AI systems** that learn, adapt, and automate.
-
-Currently building **Stark** — a modular, self-learning AI assistant powered by local LLMs.
-My focus is on creating systems that:
-
-* Parse natural language intelligently
-* Generate reusable skills dynamically
-* Automate workflows without relying on cloud dependency
-* Maintain privacy-first architecture
-
-I am deeply interested in:
-
-* Agentic AI Systems
-* LLM orchestration
-* Self-learning architectures
-* Startup-driven product engineering
+</div>
 
 ---
 
-## 🚀 Flagship Project — Stark
+## Who I Am
 
-> A modular, offline-first personal AI assistant that learns by doing.
+I build AI systems that work **offline, privately, and intelligently** — no cloud dependency, no data leaving your machine.
 
-### Core Capabilities
+My current obsession is **Stark**, a self-learning AI assistant that generates its own skills on the fly. The idea is simple: instead of hardcoding every automation, Stark watches what you ask, writes the skill once, and reuses it forever.
 
-* 🧠 LLaMA 3 / Mistral powered intent parsing (via Ollama)
-* 🛠 Dynamic skill generation using DeepSeek Coder
-* 📅 Google Calendar integration
-* 🔁 Recurring + scheduled task management
-* 💾 Persistent memory (JSON + SQLite)
-* 🔌 Modular architecture
-* 🔒 Privacy-first, local execution
+I think the next wave of useful AI isn't in the cloud — it's running locally on your hardware, knowing your context, and evolving with you.
 
-### Architecture
+---
+
+## Stark — Flagship Project
+
+> *A modular, offline-first AI assistant that learns by doing.*
 
 ```
+First-time command → LLM parses intent → Skill auto-generated → Stored → Reused forever.
+No hardcoded logic. Stark learns.
+```
+
+**Core stack:**
+- 🧠 Intent parsing via **LLaMA 3 / Mistral** (Ollama)
+- 🛠 Skill generation via **DeepSeek Coder**
+- 📅 Google Calendar integration
+- 💾 Persistent memory — JSON + SQLite
+- 🔒 100% local execution, privacy-first
+
+**Project structure:**
+```
 stark/
-├── core/            # Brain + controller + scheduler + memory
-├── modules/         # Integrations + auto-generated skills
-├── models/          # LLaMA / Mistral (Ollama)
-├── data/            # memory.json + reminders.db
+├── core/        # Brain, controller, scheduler, memory
+├── modules/     # Integrations + auto-generated skills
+├── models/      # LLaMA / Mistral via Ollama
+├── data/        # memory.json + reminders.db
 ├── config/
 └── main.py
 ```
 
-### Philosophy
-
-> First-time command → Parsed by LLM → Skill auto-generated → Stored → Reused.
-
-No hardcoded automation.
-Stark learns.
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Core
-
-* Python
-* SQL
-* Bash
-
-### AI & ML
-
-* LLaMA 3
-* Mistral
-* DeepSeek Coder
-* Ollama
-* OpenCV (planned emotion detection)
-
-### Systems
-
-* CachyOS (Arch-based)
-* Hyprland
-* Linux automation
-
-### Data & Storage
-
-* SQLite
-* JSON-based persistent memory
-
-### Planned
-
-* PyQt GUI
-* Voice command system
-* Emotion-adaptive response engine
+**Roadmap:**
+- [ ] PyQt GUI
+- [ ] Voice command system
+- [ ] Emotion-adaptive response engine (OpenCV)
+- [ ] Dynamic skill marketplace architecture
 
 ---
 
-## 📈 What I'm Building Toward
+## Tech Stack
 
-* Fully autonomous personal AI
-* Dynamic skill marketplace architecture
-* Startup-grade AI product systems
-* Emotion-aware human-computer interaction
-
----
-
-## 📊 GitHub Stats
-
-<!-- You can replace YOUR_USERNAME below -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+| Layer | Tools |
+|---|---|
+| **Languages** | Python, SQL, Bash |
+| **AI / LLMs** | LLaMA 3, Mistral, DeepSeek Coder, Ollama |
+| **Computer Vision** | OpenCV *(planned)* |
+| **Storage** | SQLite, JSON |
+| **System** | CachyOS (Arch-based), Hyprland, Linux |
 
 ---
 
-## 📌 Currently Working On
+## Currently Working On
 
-* Improving Stark's intent parser (LLM-based generalization)
-* Dynamic code generation reliability
-* Local AI orchestration improvements
-* AI-powered file organization system
-
----
-
-## 🤝 Open To
-
-* AI system architecture collaborations
-* Startup co-building opportunities
-* Research in local LLM orchestration
-* Advanced automation projects
+- Improving Stark's LLM-based intent parser for better generalization
+- Reliability of dynamic code generation at runtime
+- Local AI orchestration pipeline improvements
+- AI-powered personal file organization system
 
 ---
 
-## 📄 Resume
+## What I'm Building Toward
 
-[View Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
+I want to build **startup-grade AI systems** — products that are genuinely useful, deeply private, and built around how people actually work. Not demos. Not wrappers. Real systems.
 
----
-
-## 🔗 Connect
-
-Add your:
-
-* LinkedIn
-* Portfolio
-* Email
-* Twitter/X
+Long-term directions:
+- Fully autonomous personal AI
+- Emotion-aware human-computer interaction
+- Founder track — product-first AI company
 
 ---
 
-If you'd like, I can now:
+## GitHub Stats
 
-* Add a premium animated header
-* Create a darker elite hacker-style version
-* Create a version optimized for internships
-* Create a version optimized for startup pitching
-* Add a Stark project roadmap section
-* Generate a banner image concept for you
+<div align="center">
 
-Tell me what direction you want to push your branding toward.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=San20506&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=San20506&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Open To
+
+- AI architecture collaborations
+- Startup co-building (especially AI-native products)
+- Research in local LLM orchestration
+- Serious automation projects
+
+---
+
+## Connect
+
+| Platform | Link |
+|---|---|
+| LinkedIn | *your link* |
+| Portfolio | *your link* |
+| Email | *your email* |
+| Twitter / X | *your handle* |
+
+---
+
+<div align="center">
+
+*Building things that think — offline, privately, on your terms.*
+
+</div>
